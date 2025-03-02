@@ -7,3 +7,7 @@ new2
 new3
 
 new4
+
+creating a new branch is quick
+
+i get a vim
